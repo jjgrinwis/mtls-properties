@@ -3,7 +3,7 @@ terraform {
   cloud {
     organization = "grinwis-com"
     workspaces {
-     name = "prop-4"
+      name = "prop-5"
     }
   }
 }
