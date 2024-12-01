@@ -1,1 +1,1 @@
-created_hostnames = [ "prop-5-1.grinwis.com" ]
+created_hostnames = [ "prop-5.grinwis.com" ]
